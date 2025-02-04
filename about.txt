@@ -1,0 +1,6 @@
+Tracks Changes – Helps developers track changes in code over time.
+Collaboration – Multiple developers can work on the same project without conflicts.
+Branching & Merging – Allows developers to work on features independently and merge changes safely.
+Backup & Recovery – Ensures code safety by keeping a history of changes.
+Efficient Workflow – Reduces errors and improves code management.
+Offline Work – Developers can work without an internet connection.
